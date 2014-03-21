@@ -17,7 +17,7 @@ git commit -m 'first commit'
 
 $ git add '*.txt'
 
-git remote add origin https://github.com/username/python_practice.git
+git remote add origin https://github.com/circle1234/python_practice.git
 
 $ git push -u origin master
 
